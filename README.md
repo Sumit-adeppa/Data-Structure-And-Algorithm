@@ -48,6 +48,7 @@
 | [0283-move-zeroes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 | [0986-interval-list-intersections](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0986-interval-list-intersections) |
@@ -163,6 +164,7 @@
 | [0076-minimum-window-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 ## Queue
 |  |
 | ------- |
