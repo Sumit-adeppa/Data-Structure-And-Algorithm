@@ -63,6 +63,7 @@
 | [0912-sort-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0986-interval-list-intersections) |
+| [1200-minimum-absolute-difference](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0905-sort-array-by-parity](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1200-minimum-absolute-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
