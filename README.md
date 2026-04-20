@@ -16,6 +16,7 @@
 | [0014-longest-common-prefix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
