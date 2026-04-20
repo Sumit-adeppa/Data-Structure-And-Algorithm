@@ -42,6 +42,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
@@ -181,4 +182,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
