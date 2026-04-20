@@ -109,6 +109,7 @@
 | [0986-interval-list-intersections](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -135,6 +136,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +280,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
 ## Queue
 |  |
 | ------- |
@@ -327,6 +331,7 @@
 | [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
