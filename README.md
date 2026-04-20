@@ -175,6 +175,7 @@
 | [0191-number-of-1-bits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Sorting
 |  |
 | ------- |
