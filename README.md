@@ -100,6 +100,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
@@ -175,6 +176,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 ## Trie
