@@ -58,6 +58,7 @@
 | [1143-longest-common-subsequence](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1332-remove-palindromic-subsequences) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 | [0020-valid-parentheses](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -325,6 +327,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2460-apply-operations-to-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2460-apply-operations-to-an-array) |
 ## Number Theory
 |  |
