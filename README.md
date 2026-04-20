@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
@@ -56,6 +58,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0912-sort-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
