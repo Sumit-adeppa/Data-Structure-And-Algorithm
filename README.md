@@ -66,6 +66,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
@@ -116,6 +117,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
