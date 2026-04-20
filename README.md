@@ -79,6 +79,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
@@ -226,6 +227,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -283,6 +285,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
