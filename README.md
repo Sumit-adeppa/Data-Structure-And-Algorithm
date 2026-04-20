@@ -12,11 +12,13 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
