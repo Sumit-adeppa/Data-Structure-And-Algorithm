@@ -61,6 +61,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -172,4 +173,12 @@
 | [0183-customers-who-never-order](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0197-rising-temperature) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
