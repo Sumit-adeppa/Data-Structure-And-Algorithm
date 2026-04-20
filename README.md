@@ -44,6 +44,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
@@ -109,6 +110,7 @@
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 ## Queue
 |  |
