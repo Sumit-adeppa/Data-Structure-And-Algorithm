@@ -22,6 +22,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
@@ -86,6 +87,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
@@ -117,6 +119,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -161,6 +165,7 @@
 | [0217-contains-duplicate](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
