@@ -14,6 +14,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0986-interval-list-intersections) |
 ## String
@@ -27,6 +28,7 @@
 | [0344-reverse-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
 | ------- |
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
