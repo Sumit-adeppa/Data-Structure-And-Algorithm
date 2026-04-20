@@ -15,6 +15,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0986-interval-list-intersections) |
 ## String
@@ -29,6 +30,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0821-shortest-distance-to-a-character) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 | [0986-interval-list-intersections](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0986-interval-list-intersections) |
