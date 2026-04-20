@@ -84,6 +84,7 @@
 | [0283-move-zeroes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
@@ -113,6 +114,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0258-add-digits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
