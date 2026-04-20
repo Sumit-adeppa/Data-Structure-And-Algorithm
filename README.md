@@ -155,4 +155,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
