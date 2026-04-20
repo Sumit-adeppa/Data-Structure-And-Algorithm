@@ -98,6 +98,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0821-shortest-distance-to-a-character) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,6 +156,7 @@
 | [0658-find-k-closest-elements](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
