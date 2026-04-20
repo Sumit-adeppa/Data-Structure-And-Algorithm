@@ -37,6 +37,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@
 | [0001-two-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -76,6 +78,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
