@@ -32,6 +32,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
@@ -187,6 +188,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -258,4 +260,8 @@
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2951-find-the-peaks) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
