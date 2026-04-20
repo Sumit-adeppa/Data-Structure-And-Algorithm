@@ -54,6 +54,7 @@
 | [0763-partition-labels](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1332-remove-palindromic-subsequences) |
 ## Array
 |  |
@@ -255,6 +256,7 @@
 | [0338-counting-bits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
