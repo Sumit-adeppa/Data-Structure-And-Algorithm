@@ -114,6 +114,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1732-find-the-highest-altitude](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
@@ -141,6 +142,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 ## Math
 |  |
 | ------- |
@@ -345,6 +347,7 @@
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1732-find-the-highest-altitude](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
 ## Greedy
@@ -354,6 +357,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0881-boats-to-save-people) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 ## Enumeration
 |  |
 | ------- |
