@@ -75,4 +75,12 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0986-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
