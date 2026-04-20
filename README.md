@@ -123,6 +123,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2460-apply-operations-to-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2951-find-the-peaks](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
@@ -149,6 +150,7 @@
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2352-equal-row-and-column-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Queue
 |  |
 | ------- |
