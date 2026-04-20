@@ -56,6 +56,7 @@
 | [0844-backspace-string-compare](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1332-remove-palindromic-subsequences) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0763-partition-labels](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0268-missing-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Sorting
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1248-count-number-of-nice-subarrays) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1480-running-sum-of-1d-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
