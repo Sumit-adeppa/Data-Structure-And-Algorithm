@@ -25,6 +25,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
@@ -49,6 +50,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0844-backspace-string-compare) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/1332-remove-palindromic-subsequences) |
@@ -125,6 +127,7 @@
 | [0525-contiguous-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 ## Math
 |  |
 | ------- |
@@ -317,6 +320,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0763-partition-labels) |
 ## Enumeration
 |  |
 | ------- |
