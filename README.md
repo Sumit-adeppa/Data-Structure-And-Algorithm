@@ -267,10 +267,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sumit-adeppa/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
