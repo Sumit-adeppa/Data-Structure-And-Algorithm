@@ -1,6 +1,6 @@
 class Solution {
     public int maxProfit(int[] prices) {
-          int buy1 = Integer.MIN_VALUE;  // best state after 1st buy
+        int buy1 = Integer.MIN_VALUE;  // best state after 1st buy
         int sell1 = 0;                 // best state after 1st sell
         int buy2 = Integer.MIN_VALUE;  // best state after 2nd buy
         int sell2 = 0;                 // best state after 2nd sell
