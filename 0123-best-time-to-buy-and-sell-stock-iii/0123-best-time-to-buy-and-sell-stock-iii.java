@@ -14,6 +14,7 @@ class Solution {
 
         return sell2;
     }
+}
         /*
             DRY RUN: prices = [3, 3, 5, 0, 0, 3, 1, 4]
             Start:
@@ -79,4 +80,3 @@ class Solution {
             buy2  = max(2, 4-4)       = 2      <-- 4-4 = 0, buy2 stays at 2
             sell2 = max(5, 2+4)       = 6      <-- final answer
         */
-}
