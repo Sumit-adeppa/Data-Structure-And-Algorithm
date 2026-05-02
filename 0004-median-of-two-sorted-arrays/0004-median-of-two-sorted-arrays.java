@@ -17,3 +17,24 @@ class Solution {
         return merge[size/2];
     }
 }
+
+/*
+    nums1 = [1, 3], nums2 = [2]
+    m = 2, n = 1
+
+    merge = new int[3] => [0, 0, 0]
+
+    First loop (copy nums1):
+    i=0: merge[0] = nums1[0] = 1 => [1, 0, 0]
+    i=1: merge[1] = nums1[1] = 3 => [1, 3, 0]
+
+    Second loop (copy nums2):
+    i=0: merge[0+2] = merge[2] = nums2[0] = 2 => [1, 3, 2]
+
+    Arrays.sort(merge) => [1, 2, 3]
+    
+    size = 3
+    size % 2 == 0? 3 % 2 = 1. No. Odd.
+    return merge[3/2] = merge[1] = 2
+    Output: 2.00000. Correct.
+*/
