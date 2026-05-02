@@ -79,6 +79,10 @@
     left=1, right=1
     left < right? No. Exit loop.
     return 49. Correct.
+
+    Area formula to burn into memory:
+        area = (right - left) * min(height[left], height[right])
+
 */
 class Solution {
     public int maxArea(int[] height) {
